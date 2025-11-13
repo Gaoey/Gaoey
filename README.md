@@ -1,5 +1,5 @@
 # 💫 About Me:
-About<br>I specialize in both front-end and back-end development, focusing on building scalable and efficient distributed systems. My expertise spans multiple industries, including banking, e-commerce, logistics, retail, financial services, trading systems, and real-time communication platforms.<br><br>I am passionate about designing and developing high-performance applications, leveraging modern technologies to drive innovation and efficiency. I thrive in dynamic environments, solving complex technical challenges and collaborating with cross-functional teams to deliver impactful solutions.
+I specialize in both front-end and back-end development, focusing on building scalable and efficient distributed systems. My expertise spans multiple industries, including banking, e-commerce, logistics, retail, financial services, trading systems, and real-time communication platforms.<br><br>I am passionate about designing and developing high-performance applications, leveraging modern technologies to drive innovation and efficiency. I thrive in dynamic environments, solving complex technical challenges and collaborating with cross-functional teams to deliver impactful solutions.
 
 
 # 💻 Tech Stack:
