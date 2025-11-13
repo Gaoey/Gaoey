@@ -1,5 +1,7 @@
 # 💫 About Me:
-![Gintama GIF](assets/gintama1.gif)
+<p align="center">
+  <img src="assets/gintama1.gif" alt="Gintama GIF">
+</p>
 
 Hey! I'm a programmer who writes code for a living and Googles errors for a hobby. One day, I dream of becoming the boss of my own AI factory that works hard so I don't have to. For now, I just look very serious while staring at system diagrams like they owe me money.
 
